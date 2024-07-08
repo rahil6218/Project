@@ -67,7 +67,7 @@ The distribution of revenue among India’s largest companies shows a significan
 
 The analysis highlights the top 10 companies by revenue, showcasing the leading players in India’s corporate sector.
 
--The EDA provides valuable insights into the revenue dynamics of India’s largest companies. Key takeaways include:
+- The EDA provides valuable insights into the revenue dynamics of India’s largest companies. Key takeaways include:
 
 1. Revenue Distribution: A small number of companies dominate the revenue landscape, with significant disparities between the top companies and the rest.
 
